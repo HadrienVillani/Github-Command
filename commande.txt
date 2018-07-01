@@ -8,4 +8,5 @@ Repositories
 - Effectuer la commande git add + le fichier qui s'affiche lors de la commande git status.
 - Effectuer à nouveau un git status pour voir si les fichiers précédemment ont bien été ajouté.
 - Effectuer un git commit -m "un petit message qui accompagne votre commit"
-- Effectuer ensuite un git remote origin master 
+- Effectuer ensuite un git remote origin master
+- petit test
