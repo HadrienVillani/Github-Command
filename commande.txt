@@ -1,0 +1,11 @@
+Comment utiliser github
+
+Repositories
+
+- Créer un dossier avec le nom souhaiter. ex: "Nouveau projet"
+- Ouvrir le terminal et glisser le dossier à l'intérieur.
+- Effectuer la commande git init puis git status cette dernière permet de voir les fichiers qui ne sont pas suivis par git.
+- Effectuer la commande git add + le fichier qui s'affiche lors de la commande git status.
+- Effectuer à nouveau un git status pour voir si les fichiers précédemment ont bien été ajouté.
+- Effectuer un git commit -m "un petit message qui accompagne votre commit"
+- Effectuer ensuite un git remote origin master 
